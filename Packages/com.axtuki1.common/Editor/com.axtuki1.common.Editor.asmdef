@@ -1,0 +1,24 @@
+{
+    "name": "com.axtuki1.common.Editor",
+    "references": [
+        "com.axtuki1.common.assets",
+        "VRC.SDK3",
+        "VRC.SDKBase",
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "UnityEngine.UI",
+        "VRC.SDK3.Editor",
+        "VRC.SDKBase.Editor",
+        "VRC.Udon.Editor",
+        "UnityEditor.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

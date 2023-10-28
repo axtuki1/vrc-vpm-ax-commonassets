@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.axtuki1.common": {
+      "version": "file:com.axtuki1.common",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -95,12 +107,6 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.2"
       }
-    },
-    "com.vrchat.demo-template": {
-      "version": "file:com.vrchat.demo-template",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
